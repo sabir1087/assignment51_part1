@@ -1,0 +1,7 @@
+Replica Set 
+Write a common use-case, where you will use a daemon set instead of replica set.
+
+A DaemonSet ensures that all (or some) Nodes run a copy of a Pod.
+when we want to run a cluster storage daemon on every node
+if we want to run a logs collection daemon pod on every node
+if we want to run a node monitoring daemon on every node
